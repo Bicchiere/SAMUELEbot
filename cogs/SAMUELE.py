@@ -16,3 +16,4 @@ class SAMUELE(commands.Cog):
 
 def setup(client):
     client.add_cog(SAMUELE(client))
+    
